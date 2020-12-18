@@ -1,0 +1,40 @@
+.fa-instagram {
+    background: #c592c1;
+    color: white;
+  padding:5px;
+  }
+
+  .fa-github{
+    background: #3b9881;
+    color: white;
+    padding:5px;
+  }
+  .linkedin {
+    background: #84bcd6;
+    color: rgb(67, 72, 145);
+    padding:5px;
+  }
+.content{
+    padding-block: 10px;
+    transition:5s;
+}
+
+.content h2{
+    color: cadetblue;
+    padding-top: 5px;
+
+}
+
+.content h3{
+    padding-top: 20px;
+}
+
+div.social i{
+padding:0px 10px;
+transition: 2s;
+}
+
+div.social:hover i{
+    background-color:palevioletred;
+  }
+
